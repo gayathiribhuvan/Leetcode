@@ -9,4 +9,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/gayathiribhuvan/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0184-department-highest-salary](https://github.com/gayathiribhuvan/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
