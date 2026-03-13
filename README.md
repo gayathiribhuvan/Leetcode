@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/gayathiribhuvan/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/gayathiribhuvan/Leetcode/tree/main/0048-rotate-image/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,4 +18,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/gayathiribhuvan/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/gayathiribhuvan/Leetcode/tree/main/0048-rotate-image/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/gayathiribhuvan/Leetcode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
