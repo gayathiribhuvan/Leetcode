@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/gayathiribhuvan/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/gayathiribhuvan/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0242-valid-anagram](https://github.com/gayathiribhuvan/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,8 +34,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gayathiribhuvan/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0242-valid-anagram](https://github.com/gayathiribhuvan/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gayathiribhuvan/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/gayathiribhuvan/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
