@@ -19,11 +19,13 @@
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/gayathiribhuvan/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/gayathiribhuvan/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/gayathiribhuvan/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/gayathiribhuvan/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/gayathiribhuvan/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/gayathiribhuvan/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gayathiribhuvan/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/gayathiribhuvan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Matrix
@@ -34,6 +36,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/gayathiribhuvan/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gayathiribhuvan/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0242-valid-anagram](https://github.com/gayathiribhuvan/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gayathiribhuvan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -44,6 +47,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/gayathiribhuvan/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/gayathiribhuvan/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gayathiribhuvan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Two Pointers
