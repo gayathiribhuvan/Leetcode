@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/gayathiribhuvan/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gayathiribhuvan/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/gayathiribhuvan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gayathiribhuvan/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0242-valid-anagram](https://github.com/gayathiribhuvan/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/gayathiribhuvan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +45,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/gayathiribhuvan/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/gayathiribhuvan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/gayathiribhuvan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/gayathiribhuvan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
