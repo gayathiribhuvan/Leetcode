@@ -28,6 +28,7 @@
 | [0048-rotate-image](https://github.com/gayathiribhuvan/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/gayathiribhuvan/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gayathiribhuvan/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/gayathiribhuvan/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/gayathiribhuvan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/gayathiribhuvan/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gayathiribhuvan/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0242-valid-anagram](https://github.com/gayathiribhuvan/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/gayathiribhuvan/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/gayathiribhuvan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -50,6 +52,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/gayathiribhuvan/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/gayathiribhuvan/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/gayathiribhuvan/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/gayathiribhuvan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -59,4 +62,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/gayathiribhuvan/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gayathiribhuvan/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gayathiribhuvan/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gayathiribhuvan/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gayathiribhuvan/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gayathiribhuvan/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
